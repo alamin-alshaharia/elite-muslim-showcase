@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ramdan_tracker/screens/prayer_time/widgets/prayer_time_page.dart';
+import 'package:ramdan_tracker/screens/ramadan_calendar/widgets/ramadan_calendar_page.dart';
+import 'package:ramdan_tracker/screens/tasbeeh/widgets/tasbeeh_page.dart';
 
 void main() {
   runApp(const MainApp());
@@ -11,7 +13,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: PrayerTimePage(),
+      home: TasbeehPage(),
     );
   }
 }

@@ -17,3 +17,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/ramadan_logo.png
+    - assets/images/mosque_icon.png
