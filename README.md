@@ -9,7 +9,7 @@
 > **🔗 Try the App:**
 >
 > - **Live Demo**: Experience the app without installation at [https://appetize.io/app/b_53ywiz7xgvjmedsw6ajakvothy](https://appetize.io/app/b_53ywiz7xgvjmedsw6ajakvothy)
-> - **Download**: Get the full app from official app store releases
+> - **Download**: Get the full app from github releases
 >
 > This showcase repository demonstrates the UI design and basic structure, while the production app includes complete functionality, backend integration, and regular updates.
 
