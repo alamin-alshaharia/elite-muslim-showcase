@@ -2,6 +2,19 @@
 
 **A comprehensive Islamic companion app for Ramadan and daily spiritual practices.**
 
+> **📢 IMPORTANT NOTICE**
+>
+> This repository is for **SHOWCASE PURPOSES ONLY** and contains the initial UI implementation of the Ramadan Tracker Plus app. This is **NOT the actual production repository** of the full-featured app.
+>
+> **🔗 Try the App:**
+>
+> - **Live Demo**: Experience the app without installation at [https://appetize.io/app/b_53ywiz7xgvjmedsw6ajakvothy](https://appetize.io/app/b_53ywiz7xgvjmedsw6ajakvothy)
+> - **Download**: Get the full app from official app store releases
+>
+> This showcase repository demonstrates the UI design and basic structure, while the production app includes complete functionality, backend integration, and regular updates.
+
+---
+
 Ramadan Tracker Plus is a feature-rich mobile application built with Flutter and Firebase, designed to enhance your spiritual journey during Ramadan and throughout the year. The app provides essential Islamic tools, prayer tracking, educational content, and personalized spiritual progress monitoring.
 
 ## ✨ Core Features
@@ -71,7 +84,7 @@ Ramadan Tracker Plus is a feature-rich mobile application built with Flutter and
 
 ## 🏗️ Project Architecture
 
-```
+```text
 ramdan-tracker-plus/
 ├── lib/                          # 📱 Main application code
 │   ├── screens/                  # 🖥️ UI screens and pages
