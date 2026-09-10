@@ -8,14 +8,14 @@
 >
 > **🔗 Try the App:**
 >
-> - **Google Play Store**: Download the app from [Google Play Store](https://play.google.com/store/apps/details?id=com.elitesoft23.elitemuslim)
+> - **Google Play Store**: Download the app from [Google Play Store](https://play.google.com/store/apps/details?id=com.elitesoft23.elitemuslim&hl=en)
 > - **Download**: Get the app from GitHub releases
 >
 > This showcase repository demonstrates the UI design and basic structure, while the production app includes complete functionality, backend integration, and regular updates.
 
 ---
 
-Elite Muslim is a feature-rich mobile application built with Flutter and Firebase, designed to enhance your spiritual journey during Ramadan and throughout the year. The app provides essential Islamic tools, prayer tracking, educational content, and personalized spiritual progress monitoring.
+Elite Muslim is a feature-rich mobile application built with Flutter and Firebase, designed to enhance your spiritual journey during Ramadan and throughout the year. The app provides essential Islamic[...] 
 
 ## ✨ Core Features
 
@@ -170,3 +170,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Firebase](https://firebase.google.com/)
 - [Quran.com API](https://quran.api-docs.io/)
 - [Open Source Contributors](https://github.com/)
+
